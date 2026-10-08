@@ -1,7 +1,9 @@
 --> CONTEXTUALIZAÇÃO <--
+
 Uma empresa deseja organizar melhor seus dados de vendas. Atualmente, as informações estão dispersas em planilhas e não há um sistema centralizado para consultas rápida. A direção criar um banco de dados relacional para armazenar dados de clientes, produtos e pedidos, permitindo análises mais eficientes e relatórios confiavéis
 
 --> DESAFIO <--
+
 Implementar um banco de dados em SQL que atenda às necessidades da empresa. O desafio envolve:
 - Modelagem das tabelas necessárias (Clientes, Produtos e Pedidos).
 - Criação das tabelas com chaves primárias e estrangeiras.
@@ -13,6 +15,7 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. O d
 - Listar os pedidos que ultrapassam determinado valor.
 
 --> RESULTADOS ESPERADOS <--
+
 - Um banco de dados funcional criado em SQL que poderá ser utilizado em aplicações reais.
 - Compreender como funcionam as relações entre as tabelas de um banco de dados.
 - Criar Scripts de inserção, alteração e exclusão de dados.
