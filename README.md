@@ -8,7 +8,7 @@ Implementar um banco de dados em SQL que atenda às necessidades da empresa. O d
 - Modelagem das tabelas necessárias (Clientes, Produtos e Pedidos).
 - Criação das tabelas com chaves primárias e estrangeiras.
 - Inserção de dados fictícios para simular o funcionamento da loja.
-- Consulta SQL que respondam às seguintes perguntas:
+- Consulta SLQ que respondam às seguintes perguntas:
 - Quais clientes realizaram mais compras?
 - Qual produto mais vendido no último mês?
 - Qual o valor total de vendas por cliente?
